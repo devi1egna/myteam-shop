@@ -7,7 +7,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/my-shop-api/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-regist-web/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/my-project-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-regist-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-common/my-project-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-common/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/my-project-common/my-shop-web/pom.xml" />
+      </set>
     </option>
   </component>
 </project>
