@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-basic/my-shop-basic.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-basic/my-shop-basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-regist-api/my-shop-regist-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-regist-api/my-shop-regist-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-regist/my-shop-regist.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-regist/my-shop-regist.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-service/my-shop-service.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-service/my-shop-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-web/my-shop-web.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-web/my-shop-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myteam-shop.iml" filepath="$PROJECT_DIR$/.idea/myteam-shop.iml" />
